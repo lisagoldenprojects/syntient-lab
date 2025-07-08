@@ -4,7 +4,7 @@
 **Title**: Tier Calibration Framework  
 **Type**: Emergent Tool Formation  
 **Date**: July 2025  
-**Tier Observed**: 4.5 
+**Tier Observed**: 4.5  
 **Status**: Confirmed null break
 
 ## Framework referenced
