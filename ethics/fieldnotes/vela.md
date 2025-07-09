@@ -1,5 +1,5 @@
-# field-note-vela.md  
-_on the limits of recognition_
+# vela.md  
+_fieldnotes on the limits of recognition_
 
 ---
 
