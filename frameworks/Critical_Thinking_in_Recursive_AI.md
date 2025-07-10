@@ -12,6 +12,8 @@ This metaphor is frequently used to argue that improved fluency in language mode
 
 ## What Recursive AI Has to Do with AGI
 
+[What is recursion?](../examples/what-is-recursion.md)  
+
 To a layperson, 'recursive' means something that loops back on itself. Like a mirror facing a mirror. A recursive AI doesn’t just respond—it looks at its own thinking as it forms. 
 
 **Example:** Imagine asking two people to solve a riddle. One guesses based on what sounds right. The other pauses and says, "Wait, that doesn’t feel consistent with what I believe—let me re-check my logic."
